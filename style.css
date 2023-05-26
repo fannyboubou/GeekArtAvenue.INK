@@ -15,6 +15,9 @@ h1 {
 }
 
 body {
+  padding: 2vw;
+  justify-content: center;
+  align-items: center;
   height: 100vh;
   background: #222;
 
